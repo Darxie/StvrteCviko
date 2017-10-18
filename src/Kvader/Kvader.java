@@ -17,7 +17,7 @@ public class Kvader {
 
     public void main(String[] args) {
         Kvader prvyKvader = new Kvader();
-        Kvader druhyKvader = new Kvader();
+        Kvader druhyKvader = new Kvader(stranaB,stranaC);
         Kvader tretiKvader = new Kvader(stranaA);
 
     }
